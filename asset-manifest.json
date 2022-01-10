@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shopify-Internship/static/css/main.d9459831.css",
+    "main.js": "/Shopify-Internship/static/js/main.bad153d5.js",
+    "static/js/787.69baed9e.chunk.js": "/Shopify-Internship/static/js/787.69baed9e.chunk.js",
+    "index.html": "/Shopify-Internship/index.html",
+    "main.d9459831.css.map": "/Shopify-Internship/static/css/main.d9459831.css.map",
+    "main.bad153d5.js.map": "/Shopify-Internship/static/js/main.bad153d5.js.map",
+    "787.69baed9e.chunk.js.map": "/Shopify-Internship/static/js/787.69baed9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9459831.css",
+    "static/js/main.bad153d5.js"
+  ]
+}
