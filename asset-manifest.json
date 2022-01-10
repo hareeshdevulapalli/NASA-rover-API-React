@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/Shopify-Internship/static/css/main.d9459831.css",
-    "main.js": "/Shopify-Internship/static/js/main.bad153d5.js",
+    "main.css": "/Shopify-Internship/static/css/main.9678c5c0.css",
+    "main.js": "/Shopify-Internship/static/js/main.17bbe68c.js",
     "static/js/787.69baed9e.chunk.js": "/Shopify-Internship/static/js/787.69baed9e.chunk.js",
+    "static/media/skynews-moon-earth-nasa_5143344.jpg": "/Shopify-Internship/static/media/skynews-moon-earth-nasa_5143344.6610680147c44886491d.jpg",
+    "static/media/download.jfif": "/Shopify-Internship/static/media/download.815426fa5ac17a20ec9a.jfif",
     "index.html": "/Shopify-Internship/index.html",
-    "main.d9459831.css.map": "/Shopify-Internship/static/css/main.d9459831.css.map",
-    "main.bad153d5.js.map": "/Shopify-Internship/static/js/main.bad153d5.js.map",
+    "main.9678c5c0.css.map": "/Shopify-Internship/static/css/main.9678c5c0.css.map",
+    "main.17bbe68c.js.map": "/Shopify-Internship/static/js/main.17bbe68c.js.map",
     "787.69baed9e.chunk.js.map": "/Shopify-Internship/static/js/787.69baed9e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9459831.css",
-    "static/js/main.bad153d5.js"
+    "static/css/main.9678c5c0.css",
+    "static/js/main.17bbe68c.js"
   ]
 }
